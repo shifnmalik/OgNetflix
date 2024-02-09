@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OgNetflix/static/css/main.f440141d.css",
+    "main.js": "/OgNetflix/static/js/main.79615f7d.js",
+    "static/js/592.77751a5b.chunk.js": "/OgNetflix/static/js/592.77751a5b.chunk.js",
+    "index.html": "/OgNetflix/index.html",
+    "main.f440141d.css.map": "/OgNetflix/static/css/main.f440141d.css.map",
+    "main.79615f7d.js.map": "/OgNetflix/static/js/main.79615f7d.js.map",
+    "592.77751a5b.chunk.js.map": "/OgNetflix/static/js/592.77751a5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f440141d.css",
+    "static/js/main.79615f7d.js"
+  ]
+}
