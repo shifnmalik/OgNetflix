@@ -18,7 +18,7 @@ function App() {
       <RowPost  url={Horror} title='Horror' isSmall/>
       <RowPost  url={Romance} title='Romance' isSmall/>
       <RowPost  url={Document} title='Document' isSmall/>
-
+      <div> <h1 style={{color:"white",padding: "10px", fontFamily: "Sans-Serif",}} >Developed Malik</h1></div>
     </div>
   );
 }
